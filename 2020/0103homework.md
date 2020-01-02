@@ -1,3 +1,6 @@
+만들어보고 유효성 검증을 여기 홈페이지에서 해보기
+https://validator.w3.org/#validate_by_uri
+
 ![img](https://github.com/downeyroel/TIL/blob/master/img/0103.png?raw=true)
 
 위의 이미지처럼 만들어보기. 배운걸 활용해서 다른것도 만들어서 TIL에 올려보기.
