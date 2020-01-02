@@ -1,3 +1,7 @@
+![img](https://github.com/downeyroel/TIL/blob/master/img/0103.png?raw=true)
+
+위의 이미지처럼 만들어보기. 배운걸 활용해서 다른것도 만들어서 TIL에 올려보기.
+
 # 저급 언어
 
 저급 언어는 기계 중심의 언어라고 말할 수 있습니다.
