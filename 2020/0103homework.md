@@ -3,7 +3,8 @@ https://validator.w3.org/#validate_by_uri
 
 ![img](https://github.com/downeyroel/TIL/blob/master/img/0103.png?raw=true)
 
-위의 이미지처럼 만들어보기. 배운걸 활용해서 다른것도 만들어서 TIL에 올려보기.
+- 원하는 이미지 주소를 구글 이미지 검색에서 찾고, 이미지를 클릭하면 연결된 URL 주소로 이동하는 코드를 작성하세요. 코드 작성이 완료되면 코드를 실행하고, 원하는 결과대로 동작하는지 확인
+- 이미지 시안 만들기(카카오 오븐) : https://ovenapp.io/ 
 
 # 저급 언어
 
